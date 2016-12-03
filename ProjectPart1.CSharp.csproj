@@ -121,8 +121,10 @@
     <Compile Include="Assets\_Script\EndContoller.cs" />
     <Compile Include="Assets\_Script\EnemyController.cs" />
     <Compile Include="Assets\_Script\FlashlighController.cs" />
+    <Compile Include="Assets\_Script\FlashlightDummyController.cs" />
     <Compile Include="Assets\_Script\GameController.cs" />
     <Compile Include="Assets\_Script\GameOverController.cs" />
+    <Compile Include="Assets\_Script\InstructionController.cs" />
     <Compile Include="Assets\_Script\KeyController.cs" />
     <Compile Include="Assets\_Script\MenuController.cs" />
   </ItemGroup>

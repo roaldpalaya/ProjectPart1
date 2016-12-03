@@ -17,4 +17,8 @@ public class MenuController : MonoBehaviour {
     {
         SceneManager.LoadScene("Game");
     }
+    public void Inst_Click()
+    {
+        SceneManager.LoadScene("InstructionScene");
+    }
 }
